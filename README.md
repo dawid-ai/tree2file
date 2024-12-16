@@ -5,16 +5,14 @@ A command-line tool to create directory structures from tree command output.
 ## Installation
 
 ```bash
-pip install tree2file
+pip install 2file
 ```
 
 ## Usage
 
 1. Run the command:
 ```bash
-t2f
-# or
-tree2file
+2file
 ```
 
 2. Paste your tree structure. For example:
